@@ -1,4 +1,4 @@
-This is a fork of derekwyatt/vim-scala. It gets rid of a few settings that's been bugging me, but I couldn't push them upstream to Derek. Hence this fork.
+This is a fork of derekwyatt/vim-scala. It gets rid of a few settings that have been bugging me, but I couldn't push them upstream to Derek. Hence this fork.
 
 If you have Vundle installed, simply add the following to your .vimrc:
   Bundle 'geoffliu/vim-scala'
